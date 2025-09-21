@@ -8,7 +8,6 @@ Cloud Engineer | AWS Certified Solutions Architect Professional (SAP)
 
 - Passionate about cloud architecture, automation, and building scalable solutions.
 - Experienced with AWS, Go, TypeScript, and Python.
-- Always exploring new tech and contributing to open-source projects.
 
 ---
 
@@ -24,11 +23,6 @@ Cloud Engineer | AWS Certified Solutions Architect Professional (SAP)
 ## 🌟 Projects
 
 - **[sgviz](https://github.com/nag0yan/sgviz)** — Security Group visualizer for AWS (favorite project!)
-- **[terraform-aws-s3-bucket](https://github.com/nag0yan/terraform-aws-s3-bucket)**
-- **[aurl](https://github.com/nag0yan/aurl)**
-- **[terraform-github](https://github.com/nag0yan/terraform-github)**
-- **[ts-lambda-sample](https://github.com/nag0yan/ts-lambda-sample)**
-- **[animela](https://github.com/nag0yan/animela)**
 
 ---
 
